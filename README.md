@@ -30,7 +30,7 @@ This project aims to predict the likelihood of cancer using machine learning tec
 
 2. Run the main script:
    ```
-   python main.py
+   jupyter notebook cancer.ipynb
    ```
 
 3. Follow the prompts to input patient data and obtain cancer prediction results.
